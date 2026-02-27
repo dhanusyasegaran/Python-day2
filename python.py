@@ -1,3 +1,3 @@
-a = "hari"
-b = "om"
+a = "apple"
+b = "ball"
 print(a + b)
